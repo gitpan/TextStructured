@@ -17,7 +17,7 @@ Installation
   make test
   make install
 
-DbFramework has been successfully built and tested on the following
+Text::Structured has been successfully built and tested on the following
 platforms:
 
 	   RedHat Linux 5.0
@@ -30,3 +30,5 @@ History
 -------------------------------------------------------------------------------
 RELEASE 0.01
   First CPAN release.
+RELEASE 0.02
+  Fixed typo in README.

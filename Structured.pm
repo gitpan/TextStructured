@@ -27,7 +27,7 @@ use strict;
 use base qw/Text::StructuredBase/;
 use vars qw($VERSION);
 
-$VERSION = '0.01';
+$VERSION = '0.02';
 
 my %fields = (
 	      PAGE_L => undef,

@@ -1,11 +1,10 @@
 =head1 NAME
 
-Text::StructuredBase - Structured text subclass
+Text::StructuredBase - Structured text base class
 
 =head1 SYNOPSIS
 
   use base qw/Text::StructuredBase/;
-
 
   $object->debug($n);
 
